@@ -1,6 +1,5 @@
-div.view{
-	background-color: white;
-	color: black;
+li:hover{
+	text-decoration: underline;
 }
 .pad{
 	padding-left: 50px;
@@ -19,6 +18,8 @@ div.view{
     border: none;
     color: white;
     padding: 5px 82px;
+    padding-top: 5px;
+    padding-bottom: 5px;
     text-align: center;
     text-decoration: none;
     display: inline-block;
@@ -27,4 +28,227 @@ div.view{
     margin-top: 20px;
     margin-left:300px;
     cursor: pointer;
+}
+.pading1{
+	padding-top:60px;
+	padding-left: 30px;
+	padding-right: 20px;
+	font-family: serif;
+	font-size: 23px;
+	text-transform: capitalize;
+	line-height: 1.5;
+	letter-spacing: 2px;
+
+}
+.capitalize{
+	text-transform: capitalize;
+}
+.decoration{
+	padding-right:140px;
+	padding-left: 70px;
+	font-size: 30px;
+	font-family: serif;
+	letter-spacing: 2px;
+	line-height: 1.3;
+}
+.decoration1{
+	padding-left:140px;
+	padding-right: 70px;
+	margin-top: -40px;
+	font-size: 30px;
+	font-family: serif;
+	letter-spacing: 2px;
+	line-height: 1.3;
+}
+.decoration2{
+	padding-left:130px;
+	padding-right: 70px;
+	margin-top: -40px;
+	font-size: 45px;
+	font-family: serif;
+	letter-spacing: 2px;
+	line-height: 1.3;
+}
+.capitalize1{
+	text-transform: capitalize;
+	padding-right: 140px;
+	padding-left: 70px;
+	font-size: 25px;
+	font-family: serif;
+	letter-spacing: 2px;
+	line-height: 1.3;
+}
+.capitalize2{
+	text-transform: capitalize;
+	padding-left: 140px;
+	padding-right: 70px;
+	font-size: 25px;
+	font-family: serif;
+	letter-spacing: 2px;
+	line-height: 1.3;
+}
+.capitalize3{
+	text-transform: capitalize;
+	padding-left: 140px;
+	padding-right: 70px;
+	font-size: 25px;
+	font-family: serif;
+	letter-spacing: 2px;
+	line-height: 1.3;
+}
+.button1 {
+    background-color: #C5C6CA;
+    border: none;
+    color: #1D3C91;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    font-family: serif;
+    margin-top: 20px;
+    margin-left:115px;
+    cursor: pointer;
+    letter-spacing: 2px;
+}
+.button3 {
+    background-color: #1D3C91;
+    border: none;
+    color: white;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    font-family: serif;
+    margin-top: 20px;
+    margin-left:180px;
+    cursor: pointer;
+    letter-spacing: 2px;
+}
+.button4 {
+    background-color: #1D3C91;
+    border: none;
+    color: white;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    font-family: serif;
+    margin-top: 20px;
+    margin-left:170px;
+    cursor: pointer;
+    letter-spacing: 2px;
+}
+.first-container{
+	background-color: #E9E3CB;
+	margin-top: -18px;
+	height: 650px;
+}
+.first-container1{
+	background-color: #C4BC9D  ;
+	height: 1250px;
+}
+.first-container2{
+	margin-top: -13px;
+	background-color: #E9E3CB;
+	height: 700px;
+}
+.deco{
+	font-family: serif;
+	color: #1D3C91;
+	font-size: 45px;
+	padding-top: 40px;
+	padding-bottom: 30px;
+	letter-spacing: 2px;
+}
+.block1{
+	background-color:  #333;
+	margin-left: 30px;
+	padding-top: 100px;
+	font-family: serif;
+	text-align: center;
+	color: white;
+	width: 250px;
+	height: 250px;
+}
+.block2{
+	background-color:  #333;
+	margin-left: 20px;
+	padding-top: 100px;
+	font-family: serif;
+	text-align: center;
+	color: white;
+	width: 250px;
+	height: 250px;
+}
+.block3{
+	background-color:  #333;
+	height: 250px;
+	width: 250px;
+	margin-left: 20px;
+	padding-top: 100px;
+	font-family: serif;
+	text-align: center;
+	color: white;
+}
+.block4{
+	background-color: #333;
+	height: 250px;
+	width: 250px;
+	margin-left: 20px;
+	padding-top: 100px;
+	font-family: serif;
+	text-align: center;
+	color: white;
+}
+.c { 
+    display: block;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: inset;
+    border-width: 3px;
+    border-right-color: blue;
+}
+div.height1{
+	height: 500px;
+}
+div.height2{
+	height: 500px;
+} 
+.arrange{
+	letter-spacing: 2px;
+	font-family: serif;
+	font-size: 30px;
+	padding-top: 40px;
+	color: #1D3C91;
+}
+.col-one{
+	font-family: serif;
+}
+.col-one1{
+	margin-left: 5px;
+	font-family: serif;
+}
+.col-one2{
+	margin-left:-5px;
+	font-family: serif;
+}
+h3 a{
+	color: #333;
+}
+.bottom{
+	margin-top: 150px;
 }
