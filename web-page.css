@@ -1,0 +1,30 @@
+div.view{
+	background-color: white;
+	color: black;
+}
+.pad{
+	padding-left: 50px;
+	padding-top: 30px;
+	font-size: 70px;
+	font-family: serif;
+}
+.sync-text{
+	padding-right: 30px;
+	direction: rtl;
+	font-family: serif;
+	font-size: 50px;
+}
+.button {
+    background-color: #1D3C91;
+    border: none;
+    color: white;
+    padding: 5px 82px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    font-family: serif;
+    margin-top: 20px;
+    margin-left:300px;
+    cursor: pointer;
+}
